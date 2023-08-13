@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="38e8ef89-d599-4550-b60e-28c750cfe27f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/00044095-8644-4241-951f-41e5ae5d4cc6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/16228881-b297-4af8-ad0a-9404cc1cc6cf-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/19311a8a-024a-4d8c-95cc-cbdfde216742-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/33829067-12a1-44e6-9117-731d79f34e8f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/34b84dc2-23b6-484a-8dd6-d13ea01ed710-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4c401302-9e7d-4908-9ee6-607473df3c1b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/533482b1-cefb-44bc-ac41-663a8e5fd011-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5f274051-b5a8-4f05-9307-04d6de2791f7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/69aae10c-4820-40cb-bfdc-70c461bdc6fa-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6f6d1dfe-ff16-4079-9739-8f353ca18544-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6fe1beb6-a4dc-4b9b-b52d-d9d2b359c23a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9abb4642-cbff-44a6-bc2d-a488b7a085da-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b99a0638-4b9a-4672-9a36-dcb265f3c364-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ce01d485-a86c-4ffb-9155-2af822893e49-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dde83238-9d63-451f-ae2a-b3d8d8398b91-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e3929554-273e-4507-b03a-08393d043421-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f716125c-1188-4757-80d9-690e3c4c3570-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/web_test/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/web_test/MyPostsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/logback-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/my.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/web_test/AbstractTestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/web_test/LoginPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/web_test/PageMyPostsTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/web_test/LoginPage.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/web_test/MyPostsPage.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/org/web_test/AbstractTestClass.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/org/web_test/PageMyPostsTest.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2TsuS8GXepC8L9PbDs4iTg144bC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.LoginPageTest">
+    <configuration name="LoginPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.web_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.web_test" />
+      <option name="MAIN_CLASS_NAME" value="org.web_test.LoginPageTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGb" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="NewTestGB10" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LoginPageTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38e8ef89-d599-4550-b60e-28c750cfe27f" name="Changes" comment="" />
+      <created>1691844255775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691844255775</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TestWebGB$LoginPageTest.ic" NAME="LoginPageTest Coverage Results" MODIFIED="1691920812424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.web_test.*</FILTER>
+    </SUITE>
+  </component>
+</project>
